@@ -1,8 +1,8 @@
 const content = {
   title: "Love You Mams 💖",
   subtitle: "From silly laughs to endless hugs… life is sweeter with you, Akash 💕",
-  yesButtonText: "Romantic Yes 💘",
-  noButtonText: "Not So Easy 😜",
+  yesButtonText: "Yes 💘",
+  noButtonText: "No",
   successMessage: "Yayyy! You just made your wifey the happiest girl ever 🥹❤️",
   enableNoButtonEscape: true
 };
