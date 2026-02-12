@@ -1,9 +1,9 @@
 const content = {
-  title: "Love You Mams 💖",
-  subtitle: "From silly laughs to endless hugs… life is sweeter with you, Akash 💕",
-  yesButtonText: "Yes 💘",
-  noButtonText: "No",
-  successMessage: "Yayyy! You just made your wifey the happiest girl ever 🥹❤️",
+  title: "Will you be my Valentine? 💖",
+  subtitle: "I promise unlimited cuddles, late-night talks, and stealing your hoodies forever 🥺👉�",
+  yesButtonText: "Yes! 💘",
+  noButtonText: "No 💔",
+  successMessage: "OMG YESSS! You just made me the happiest person alive! 🥹✨💕",
   enableNoButtonEscape: true
 };
 
