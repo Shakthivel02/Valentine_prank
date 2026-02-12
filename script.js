@@ -3,7 +3,7 @@ const content = {
   subtitle: "Just kidding... unless? 🤔 Nah I'm playing 😂",
   yesButtonText: "Yes 💕",
   noButtonText: "Nah 😂",
-  successMessage: "Perfect! That's exactly what I wanted to hear! Knew you'd say no 😎� We're good bro!",
+  successMessage: "Perfect! That's exactly what I wanted to hear! Knew you'd say no 😎 We're good bro!",
   enableNoButtonEscape: false,
   enableYesButtonEscape: true
 };
@@ -43,7 +43,7 @@ if (content.enableYesButtonEscape) {
     yesBtn.style.transform = `rotate(${Math.random() * 360}deg) scale(${0.9 + Math.random() * 0.2})`;
 
     // Change button text after a few escapes
-    if (escapeCount === 3) yesBtn.innerText = "Nope! �";
+    if (escapeCount === 3) yesBtn.innerText = "Nope!";
     if (escapeCount === 5) yesBtn.innerText = "Not Today! 🏃";
     if (escapeCount === 8) yesBtn.innerText = "Catch Me! 😂";
     if (escapeCount === 12) yesBtn.innerText = "Just Click No! 🤣";
@@ -74,7 +74,7 @@ noBtn.addEventListener("click", () => {
         ${content.successMessage}
       </h1>
       <div style="font-size:80px;animation:laughing 1.5s ease-in-out infinite;">
-        �🤝�
+        🤝
       </div>
     </div>
     <style>
